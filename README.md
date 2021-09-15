@@ -1,2 +1,3 @@
-# thranduil
-NFT perceptual hashing
+# Thranduil JS
+
+NFT perceptual hashing to
